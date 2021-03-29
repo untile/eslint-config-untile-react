@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.0.3](https://github.com/untile/eslint-config-untile-react/releases/tag/v0.0.3) (2021-03-29)
+- Update workflow token [\#5](https://github.com/untile/eslint-config-untile-react/pull/5) ([abelsoares](https://github.com/abelsoares))
+
 ## [v0.0.2](https://github.com/untile/eslint-config-untile-react/releases/tag/v0.0.2) (2021-03-29)
 - Update release workflow github token [\#3](https://github.com/untile/eslint-config-untile-react/pull/3) ([rafaelcruzazevedo](https://github.com/rafaelcruzazevedo))
 
