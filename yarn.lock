@@ -811,10 +811,10 @@
     "@typescript-eslint/types" "4.19.0"
     eslint-visitor-keys "^2.0.0"
 
-"@untile/eslint-config-untile@^0.0.2":
-  version "0.0.2"
-  resolved "https://npm.pkg.github.com/download/@untile/eslint-config-untile/0.0.2/3b4576653d2f23c7887d44eb3a4a1e02be0a23ecec6f11e22c26c2b1717c4e00#7a7831a438232c5e3a351d70998c9ec09ffe80d9"
-  integrity sha512-wspkyfotvU5tsvXfvY45rcFTUUHG0KzoRDx2fXB4qKI8/89t+OAnYPhHkp3W4lMFTF0Y5WxgcXkzY/ZeQqpQKw==
+"@untile/eslint-config-untile@^0.0.3":
+  version "0.0.3"
+  resolved "https://npm.pkg.github.com/download/@untile/eslint-config-untile/0.0.3/cea6cd35d0a6b039b021c04dd7e08c65015a33f6c37284538683c13c5536314f#8260445782133ef9a9788b5119affd00b2d5e881"
+  integrity sha512-aKN3k3ANiQ3aAUQu+8XcBt1jjfJNscVq6dFHn4IWIHwA//bp7RPf65r0+9XPEMy893WirlWUy4G1NXhcyMDegA==
   dependencies:
     babel-eslint "10.1.0"
     eslint-plugin-jest "24.3.2"
