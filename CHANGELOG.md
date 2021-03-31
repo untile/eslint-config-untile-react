@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.0.4](https://github.com/untile/eslint-config-untile-react/releases/tag/v0.0.4) (2021-03-31)
+- Fix jsx-quotes-rule to prefer-single  [\#6](https://github.com/untile/eslint-config-untile-react/pull/6) ([rafaelcruzazevedo](https://github.com/rafaelcruzazevedo))
+
 ## [v0.0.3](https://github.com/untile/eslint-config-untile-react/releases/tag/v0.0.3) (2021-03-29)
 - Update workflow token [\#5](https://github.com/untile/eslint-config-untile-react/pull/5) ([abelsoares](https://github.com/abelsoares))
 
