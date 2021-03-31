@@ -25,7 +25,7 @@ module.exports = {
   ],
   root: true,
   rules: {
-    'jsx-quotes': ['error', 'prefer-double'],
+    'jsx-quotes': ['error', 'prefer-single'],
     'new-cap': ['error', { capIsNewExceptions: ['BigNumber'] }],
     'react/display-name': 'error',
     'react/jsx-boolean-value': 'error',
@@ -59,7 +59,6 @@ module.exports = {
     'react/prefer-es6-class': 'error',
     'react/prefer-stateless-function': 'error',
     'react/react-in-jsx-scope': 'error',
-    'react/require-default-props': 'warn',
     'react/self-closing-comp': 'error',
     'react/sort-prop-types': 'error',
     'react-hooks/exhaustive-deps': 'error',
