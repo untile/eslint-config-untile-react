@@ -21,7 +21,7 @@
   "main": "src",
   "scripts": {
     "changelog": "echo \"$(github-changelog-generator --future-release=v$npm_package_version)\n$(tail -n +2 CHANGELOG.md)\" > CHANGELOG.md",
-    "lint": "eslint --config src/index.js src/index.js test/index.test.js",
+    "lint": "eslint --config src/index.js test/index.test.js",
     "lint-staged": "lint-staged",
     "test": "jest",
     "version": "npm run changelog && git add -A CHANGELOG.md"

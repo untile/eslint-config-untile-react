@@ -56,6 +56,15 @@ const NoLiterals = () => (
 
 noop(NoLiterals);
 
+// `react/jsx-first-prop-new-line`.
+const FirstPropNewLineMultiprops = () => (
+  <div biz={'baz'}
+    foo={'bar'}
+  />
+);
+
+noop(FirstPropNewLineMultiprops);
+
 // `react/jsx-tag-spacing`.
 const TagSpacingAfterOpening = () => (
   < div />
