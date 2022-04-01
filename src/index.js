@@ -40,6 +40,7 @@ module.exports = {
     'react/jsx-indent-props': ['error', 2],
     'react/jsx-key': 'error',
     'react/jsx-max-props-per-line': 'error',
+    'react/jsx-newline': ['error', { prevent: false }],
     'react/jsx-no-duplicate-props': 'error',
     'react/jsx-no-literals': 'error',
     'react/jsx-no-undef': 'error',
