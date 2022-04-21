@@ -29,7 +29,7 @@ module.exports = {
     'new-cap': ['error', { capIsNewExceptions: ['BigNumber'] }],
     'react/display-name': 'error',
     'react/jsx-boolean-value': 'error',
-    'react/jsx-closing-bracket-location': 'error',
+    'react/jsx-closing-bracket-location': ['error', 'line-aligned'],
     'react/jsx-curly-brace-presence': ['error', {
       children: 'ignore',
       props: 'always'
