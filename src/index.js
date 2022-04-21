@@ -34,6 +34,10 @@ module.exports = {
       children: 'ignore',
       props: 'always'
     }],
+    'react/jsx-curly-newline': ['error', {
+      multiline: 'forbid',
+      singleline: 'forbid'
+    }],
     'react/jsx-curly-spacing': 'error',
     'react/jsx-first-prop-new-line': ['error', 'multiline-multiprop'],
     'react/jsx-indent': ['error', 2],
