@@ -40,6 +40,15 @@ function notHook() {
 
 noop(RulesOfHooks, notHook);
 
+// `react/jsx-closing-bracket-location`.
+const ClosingBracketLocation = () => (
+  <div
+    firstName={'foo'}
+    lastName={'bar'} />
+);
+
+noop(ClosingBracketLocation);
+
 // `react/jsx-curly-brace-presence`.
 const CurlyBracePresence = () => (
   <div foo='bar' />

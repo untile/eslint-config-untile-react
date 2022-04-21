@@ -63,6 +63,7 @@ const NoLiterals = () => (
 noop(NoLiterals);
 
 // `react/jsx-first-prop-new-line`.
+// `react/jsx-closing-bracket-location`.
 const FirstPropNewLineMultiprops = () => (
   <div
     biz={'baz'}
