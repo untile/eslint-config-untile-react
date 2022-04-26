@@ -42,6 +42,15 @@ const CurlyBracePresence = () => (
 
 noop(CurlyBracePresence);
 
+// `react/jsx-curly-newline`.
+const CurlyNewLine = () => (
+  <div>
+    {'foo'}
+  </div>
+);
+
+noop(CurlyNewLine);
+
 // `react/jsx-newline`.
 const NewLineBetweenComponents = () => (
   <div>
